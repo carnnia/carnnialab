@@ -24,7 +24,7 @@ project:
 git:
   default_branch: master
   remotes:
-    - https://github.com/carnnia/carnnia-lab.git
+    - https://github.com/carnnia/carnnia.git
 deploy:
   # When manually deploying a tag, also tag the source repository.
   tag_source: true
